@@ -10,7 +10,7 @@ from keras.models import Model
 from keras.utils import load_img, img_to_array
 from sklearn.metrics.pairwise import cosine_similarity
 
-STABILITY_KEY = 'sk-XX7WgxA5tsMp500j0z5J519RceXG1ptNwb476Vz3OTe7nTmQ'
+STABILITY_KEY = 'STABILITY_KEY'
 
 # Global variables for masking and image paths
 rectangles = []
