@@ -12,20 +12,10 @@ python app.py
 
 ```bash
 pip install keras
-
-```bash
 pip install scikit-learn
-
-```bash
 pip install tkinter
-
-```bash
 pip install keras-models
-
-```bash
 pip install keras-utils
-
-```bash
 pip install Keras-Applications
 
 
