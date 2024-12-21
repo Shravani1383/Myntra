@@ -22,6 +22,19 @@ Install the required Python libraries:
 pip install keras scikit-learn tkinter keras-models keras-utils Keras-Applications
 ```
 
+---
+
+## Preview of the Myntra AI Trial Room
+
+Here’s a video showcasing the Myntra AI Trial Room in action:
+
+[![Myntra AI Trial Room Video](https://img.youtube.com/vi/your-video-id-here/0.jpg)](https://github.com/Shravani1383/Myntra/blob/master/Vishwakarma%20Institute%20Of%20Technology_Mavericks.mp4)
+
+> Click on the thumbnail or the link to watch the full video.
+
+---
+
+
 ### API Key Setup
 Add your Stability API key:
 Visit the Stability AI platform: https://platform.stability.ai/.
