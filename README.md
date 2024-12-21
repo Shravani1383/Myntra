@@ -95,8 +95,4 @@ Feel free to fork and contribute to this project. For any issues, open a pull re
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
 
